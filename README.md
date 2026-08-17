@@ -1,1 +1,1 @@
-Ein von Wordle inspiriertes Worträtselspiel.
+Ein von Wordle inspiriertes englisches Worträtselspiel.
