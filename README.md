@@ -1,1 +1,1 @@
-# daily-word
+Ein von Wordle inspiriertes Worträtselspiel.
